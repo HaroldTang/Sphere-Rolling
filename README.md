@@ -8,6 +8,8 @@ For this project, the sphere is imported from file and can start from one corner
   - texture mapping on the sphere and the floor (use texture coordinate), also can click on keyboard 'U','A', 'V', 'T' to change the effect of mapping
   - lighting setting (point source, spotlight or distant light)
   - Change the solid sphere setting to get a linear sphere and a linear ground.
+  - Create a fog effect on the sphere and floor. Can change the setting of the fog (linear fog, exponential fog, etc)
+  - Create a firework effect with particle doing free fall movement (random velocity and random color to create beautiful firework!)
 - Click on the 'L' button on the keyboard to create a lattice effect on the sphere. 
 
 ## Bresenham’s scan-conversion algorithm for a Circle
